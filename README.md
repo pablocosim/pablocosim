@@ -2,7 +2,7 @@
 
 **`Estudante de ADS`**
 
-Me chamo Pablo Leonardo Cosim Andrade, tenho 20 anos e sou natural do Mato grosso do sul. Concluí o ensino médio no IFMS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR. Sou apaixonado por tecnologia e estou começando compartilhar meus aprendizados aqui no meu perfil e também no meu Linkedin! , onde mostro desde a teoria até a prática.
+Me chamo Pablo Leonardo Cosim Andrade, tenho 20 anos e sou natural do Mato grosso do sul. Concluí o ensino médio no IFMS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR. Sou apaixonado por tecnologia e estou começando compartilhar meus aprendizados aqui no meu perfil e também no meu Linkedin! "[PabloCosim](https://www.linkedin.com/in/pablo-cosim-415684266/)" , onde mostro desde a teoria até a prática.
 
 <p align="left">
     <a href="https://www.youtube.com/">
