@@ -1,4 +1,4 @@
-# ![Pablo Cosim](https://i.pinimg.com/originals/9f/eb/6a/9feb6ae6ea5ee06371553d6398f1419b.gif)
+# ![Pablo Cosim](<img src="https://i.pinimg.com/originals/9f/eb/6a/9feb6ae6ea5ee06371553d6398f1419b.gif" width="100">)
  Pablo Cosim
 
 **`Estudante de ADS`**
